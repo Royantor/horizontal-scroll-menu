@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">mrroy</string>
+    <string name="buttonone">ভর্তির খবর</string>
+    <string name="bottonthree">অনুপ্রেরণামূলক গল্প</string>
+    <string name="bottontfour">ক্যারিয়ার</string>
+    <string name="bottonfive">নানারকম</string>
+    <string name="bottontwo">বিশ্ববিদ্যালয়</string>
+    <string name="bottonseven">স্কিল ডেভেলপমেন্ট</string>
+    <string name="bottonsix">লাইফ হ্যাকস</string>
+    <string name="a">antor</string>
+    <string name="va">actor</string>
+    <string name="ba">antor</string>
+</resources>
